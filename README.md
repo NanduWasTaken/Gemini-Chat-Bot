@@ -7,7 +7,7 @@ This is a simple Discord chat bot built using discord.js and the gemini-pro mode
 
 [![Run on Repl.it](https://repl.it/badge/github/NanduWasTaken/Gemini-Chat-Bot)](https://replit.com/@NanduWasTaken/Gemini-Discord-Chat-Bot?v=1)
 
->>> if you are running on replit make sure u set up the secret named 'API_TOKEN' & 'TOKEN'. AND ALSO PUT THE CHANNEL ID IN THE 'config.js' FILE.
+>✋ if you are running on replit make sure u set up the secret named 'API_TOKEN' & 'TOKEN'. AND ALSO PUT THE CHANNEL ID IN THE 'config.js' FILE.
 
 
 
